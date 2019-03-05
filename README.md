@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages      访问https://yangjiabinylg.github.io/     Setting中可以设置
 
 You can use the [editor on GitHub](https://github.com/yangjiabinylg/yangjiabinylg.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
